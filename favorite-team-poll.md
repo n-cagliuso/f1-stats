@@ -1,4 +1,4 @@
-Instruction: Add a | next to your favorite F1 team. If your team is not yet listed, add it.
+Instruction: increment the votes talley next to your favorite F1 team. If your team is not yet listed, add it.
 
 | TEAMS		|		VOTES    |
 |---------|------------------------------------|
