@@ -1,0 +1,24 @@
+Instruction: increment the votes talley next to your favorite F1 driver. If your driver is not yet listed, add it.
+
+| DRIVERS |VOTES|
+|---------|-----|
+|MAX VERSTAPPEN | |
+|SERGIO PEREZ | |
+|CHARLES LECLERC | |
+|CARLOS SAINZ | |
+|LEWIS HAMILTON | |
+|GEORGE RUSSELL | |
+|LANDO NORRIS | |
+|OSCAR PIASTRI | |
+|ESTEBAN OCON | |
+|PIERRE GASLY | |
+|VALTTERI BOTTAS | |
+|ZHOU GUANYU | |
+|FERNANDO ALONSO | |
+|LANCE STROLL | |
+|KEVING MAGNUSSEN | |
+|NICO HULKENBERG | |
+|YUKI TSUNODA | |
+|NYCK DE VRIES | |
+|ALEX ALBON | |
+|LOGAN SARGEANT | |
